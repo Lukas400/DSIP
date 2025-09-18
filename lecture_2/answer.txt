@@ -1,0 +1,32 @@
+6.2
+
+77 6F 72 6C 64 <- world 
+
+doc -> 00001840(HEX)
+
+24bit -> 00000036(HEX)
+
+1bit -> 0000003E(HEX)
+
+6.3
+
+If i try to open hello_world.exe it won't run
+
+Changing the extension did not change the file to the file 
+
+When i changed hello_world.txt to read only i wasn't able to save any additions
+ 
+7.0
+
+1. I have 1 disk
+ 
+2. disk model: SKHynix_HFS512GDE9X084N
+   capacity: 475 gb
+   read speed: 2049.48 MB/s
+   write speed: 1551.73 MB/s
+
+3. My disk has 3 partitions
+   a. EFI system partition (capacity: 260mb)
+   b. primary partition (capacity: 475gb)
+   c. recovery partition (capacity: 1gb)
+

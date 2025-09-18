@@ -1,0 +1,20 @@
+5.1
+190
+
+wifi driver:
+
+location: C:\WINDOWS\system32\DRIVERS\mtkwl6ex.sys
+
+driver name: Media Tek Wi-Fi 6 MT7921 Wireless LAN Card
+
+network driver:
+
+location: C:\WINDOWS\System32\drivers\AgileVpn.sys
+
+driver name: WAN Miniport (IKEv2)
+6.1
+RAM: 7900 mb
+CPU: 11 %
+6.2
+
+C:\Program Files\Opera\opera.exe

@@ -1,0 +1,11 @@
+4.1)145.118.xxx.xxx
+
+4.2) When i checked my IP address with while using a VPN it became completely different and changed to a longer format.
+It changed because the VPN routes my internet through a server and gives me a new address hiding my real one.
+
+4.3)
+my IP is public
+
+my getaway is public
+
+4.4)

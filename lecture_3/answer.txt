@@ -1,0 +1,19 @@
+4.1 
+AMD Ryzen 5 5600H with Radeon Graphics
+4.2
+model: Micron Technology 4ATF11G64HZ-3G2E1 
+speed: 3200 MT/s
+GB: 16
+4.3
+type: AMD Radeon(TM) Graphics integrated GPU
+dedicated video memory: 2gb
+shared system memory: 7gb
+4.4
+BIOS version: LENOVO GSCN33WW, 04.07.2022
+5
+boot order: ssd first (i can't find the rest of the order)
+can computer boot from a USB disk: yes
+6
+resolution: 2560*1600
+if i switch to portrait it turns the screen 90 degrees 
+if i switch the resolution to 800*600 the resolution gets changed to something that's not practical for my screen 
