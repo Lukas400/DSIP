@@ -1,11 +1,26 @@
-4.1)145.118.xxx.xxx
+4.1)IPv6 address by checking using curl: 2a02:a452:5c2d:0:bc92:xxxx:xxxx:xxxx
 
-4.2) When i checked my IP address with while using a VPN it became completely different and changed to a longer format.
+ipconfig IPv4: 192.168.2.33
+
+getaway: 192.168.2.254
+
+4.2) When i checked my IP address with while using a VPN it became completely different.
 It changed because the VPN routes my internet through a server and gives me a new address hiding my real one.
 
 4.3)
-my IP is public
+IP address starting with 192.168 is private
 
-my getaway is public
+my getaway is private
 
 4.4)
+ loc: 52.0767,4.2986
+
+4.5) 
+ the first hub is my IP address 
+ the last one is a google server
+
+4.6)
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750" 
